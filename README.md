@@ -9,7 +9,7 @@
 - <b>🔐 Caesar Cipher Project 🔐</b>
   - [Caesar Cipher](https://github.com/ksessions2022/pythontime/tree/main/caesarcipher)
 - <b>🟰 Calculator Project 🟰</b>
-  - [Calculator](https://github.com/ksessions2022/pythontime/tree/main/calculator_project).
+  - [Calculator](https://github.com/ksessions2022/pythontime/tree/main/calculator_project)
 - <b>🍵 Coffee Project 🍵</b>
   - [Coffee](https://github.com/ksessions2022/pythontime/tree/main/coffee_machine)
 - <b>🐢 Turtle Race Project 🐢</b>
