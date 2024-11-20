@@ -18,3 +18,10 @@
   - [Fizzbuzz](https://github.com/ksessions2022/pythontime/tree/main/fizzbuzz)
 - <b>🏓 Pong Arcade Project 🏓</b>
   - [Pong Arcade](https://github.com/ksessions2022/pythontime/tree/main/pong_arcade_game)
+
+<h2> 🤳 Connect with me:</h2>
+
+- <b>Website</b>
+  - [My Website](https://kylesessions.com)
+- <b>LinkedIn</b>
+  - [LinkedIn](https://www.linkedin.com/in/kyle-sessions-656b2020b/)
